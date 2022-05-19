@@ -1,0 +1,17 @@
+.ok{width:500px;
+
+    padding:5px;
+    margin:7px;
+   border: 5px groove orange;
+       }
+.container {
+  display: flex;
+  justify-content: flex-start;
+}
+.fslc{padding:7px;
+    margin:5px;
+    border:groove black;}
+body{background-color:#ffb88c ;}
+ 
+
+   
